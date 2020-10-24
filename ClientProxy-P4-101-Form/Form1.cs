@@ -31,7 +31,7 @@ namespace ClientProxy_P4_101_Form
             label3.Text = "2 x 2 = " + hasilKali; //Add label3.Text + var hasilKali
             //Console.WriteLine("2 x 2 = " + hasilKali);
             double hasilBagi = obj.Bagi(2, 2);
-            label4.Text = "2 : 2 = " + hasilBagi; //Add label4.Text + var hasilBagi
+            label4.Text = "2 / 2 = " + hasilBagi; //Add label4.Text + var hasilBagi
             //Console.WriteLine("2 / 2 = " + hasilBagi);
 
             ServiceReference1.Koordinat a = new
